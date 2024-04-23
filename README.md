@@ -1,5 +1,5 @@
 
-# URL DO PROJETO ENN - 01 - Fundamentos de Sistemas de Informação
+# URL DO PROJETO - Fundamentos de Sistemas de Informação - Discentes: Isadora e Natália
 ## [http://209.38.132.33/](http://209.38.132.33/)
 <br><br><br>
 <p align="center">
